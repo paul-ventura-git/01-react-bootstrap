@@ -1,6 +1,4 @@
-import logo from './logo.svg';
-//import './App.css';
-import NavScrollExample from "./components/NavScrollExample";
+import NavScrollExample from "./components/MainNavbar";
 import ResponsiveTable from './components/ResponsiveTable';
 import InputGroup01 from './components/InputGroup01';
 
