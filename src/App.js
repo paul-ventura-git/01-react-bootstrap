@@ -1,13 +1,12 @@
 import NavScrollExample from "./components/MainNavbar";
 import ResponsiveTable from './components/ResponsiveTable';
-import InputGroup01 from './components/InputGroup01';
+import MainForm from "./components/MainForm";
 
 function App() {
   return (
     <div className="App">      
-      <NavScrollExample></NavScrollExample>
-      
-      <InputGroup01></InputGroup01>
+      <NavScrollExample></NavScrollExample>      
+      <MainForm></MainForm>
       <ResponsiveTable></ResponsiveTable>
 
     </div>

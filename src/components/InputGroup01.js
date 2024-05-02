@@ -5,8 +5,6 @@ import Container from 'react-bootstrap/Container';
 function InputGroup01() {
   return (
     <Container className='my-form justify-content-between'>
-        <h1>Bitte füllen Sie das Formular aus</h1>
-        <br></br>
       <InputGroup className="mb-3">
         <InputGroup.Text id="basic-addon1">@</InputGroup.Text>
         <Form.Control
